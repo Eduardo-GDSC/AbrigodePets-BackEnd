@@ -1,0 +1,17 @@
+{
+  "name": "abrigo-de-pets",
+  "version": "1.0.0",
+  "description": "API REST do abrigo de pets",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
