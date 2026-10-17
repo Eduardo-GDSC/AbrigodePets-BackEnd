@@ -215,6 +215,6 @@ app.delete("/pets/:id", (req, res) => {
 });
 
 // ---------------------------------------------------------------
-app.listen(3000, () => {
+app.listen(3001, () => {
   console.log("API rodando na porta 3000");
 });
